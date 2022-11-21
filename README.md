@@ -18,6 +18,9 @@ resources allocated, and resources available were given in a table:
 I translated the table into several vectors and matrices in order to solve this problem.
 However, when I attempted to find a safe sequence, I ended up finding none:
 
+![image](https://user-images.githubusercontent.com/117226386/202966822-1bf20559-1dcb-4baa-9cf4-1759ad69c9c2.png)
+
+
 This does not make sense to me because it seems that by the table, there should be enough
 resources available for at least one possible safe sequence to be made.  One other major
 issue I had with this project was using matrices.  I have only used matrices once before
